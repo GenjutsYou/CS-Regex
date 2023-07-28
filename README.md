@@ -41,4 +41,4 @@ For any questions or inquiries, please reach out to me:
 
 ## Link
 
-[CS-Regex](https://raw.githubusercontent.com/GenjutsYou/CS-Regex/main/gist-template.md)
+[CS-Regex](https://gist.github.com/GenjutsYou/b01991f23a531032dd3ba34019a13821)
