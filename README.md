@@ -20,7 +20,7 @@ This project aims to create a user-friendly regex tutorial featuring a descripti
 
 ## Installation
 
-git@github.com:GenjutsYou/CS-Regex.git
+    git@github.com:GenjutsYou/CS-Regex.git
 
 ## Usage
 
