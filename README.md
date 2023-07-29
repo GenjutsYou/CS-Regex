@@ -12,9 +12,6 @@ This project aims to create a user-friendly regex tutorial featuring a descripti
 - [Usage](#usage)
 - [Credits](#credits)
 - [License](#license)
-- [Features](#features)
-- [Contribution](#contribution)
-- [Tests](#tests)
 - [Contact](#contact)
 - [Link](#link)
 
